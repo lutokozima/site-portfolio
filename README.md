@@ -4,9 +4,9 @@
 
 Nesse curso você vai dominar todo **git** e **github** do _zero ao profissional_
 
--[x] Site responsivo
--[] Login com Facebook
--[] Página sobre a empresa
+- [x] Site responsivo.
+- [] Login com Facebook.
+- [] Página sobre a empresa.
 
 ## Modulos
 _Entendendo o que é **git**, aprendendo sobre **repositorios**, trabalhando com **branch**_
