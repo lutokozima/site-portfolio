@@ -18,11 +18,39 @@ _Entendendo o que é **git**, aprendendo sobre **repositorios**, trabalhando com
 3. Git avançado
 4. Usando github de forma profissional
 
-> Este pe um blockquote, usado para alguma área.
->
-> Segunda área destacada
+
 
 ### Rede Social
 [Instagram](https://www.instagram.com/sujeitoprogramador)
 
 [Youtube](https://www.youtube.com/sujeitoprogramador)
+
+> Este pe um blockquote, usado para alguma área.
+>
+> Segunda área destacada
+
+```
+npm start
+```
+
+**Exemplo de uso do script**
+```js
+function showName(nome){
+    return 'Bem vindo: ' + nome;
+}
+```
+
+** Uso do componente HTML**
+```html
+<h1>
+    Título do projeto
+    <span>Curso Git</span>
+</h1>
+```
+**CSS padrão do projeto**
+```css
+.titulo{
+    background-color:#FFF;
+    color: #FF0000;
+}
+```
