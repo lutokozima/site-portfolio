@@ -18,6 +18,10 @@ _Entendendo o que é **git**, aprendendo sobre **repositorios**, trabalhando com
 3. Git avançado
 4. Usando github de forma profissional
 
+> Este pe um blockquote, usado para alguma área.
+>
+> Segunda área destacada
+
 ### Rede Social
 [Instagram](https://www.instagram.com/sujeitoprogramador)
 
