@@ -12,6 +12,8 @@ _Entendendo o que é **git**, aprendendo sobre **repositorios**, trabalhando com
 * GIT avançado
 
 1. Começando com GIT
+    1. O que é GIT
+    2. Instalando git na maquina
 2. Aprendendo sobre repositórios
 3. Git avançado
 4. Usando github de forma profissional
