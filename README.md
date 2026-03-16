@@ -11,6 +11,10 @@ _Entendendo o que é **git**, aprendendo sobre **repositorios**, trabalhando com
 * Aprendendo sobre repositórios
 * GIT avançado
 
+1. Começando com GIT
+2. Aprendendo sobre repositórios
+3. Git avançado
+4. Usando github de forma profissional
 
 ### Rede Social
 [Instagram](https://www.instagram.com/sujeitoprogramador)
