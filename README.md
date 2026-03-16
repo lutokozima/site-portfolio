@@ -58,3 +58,9 @@ function showName(nome){
     color: #FF0000;
 }
 ```
+Propriedades | Descrição
+-----------| -----------
+name | Informar o nome do usuario
+size | Definir o tamanho do campo
+background | Cor do fundo da área em HEX
+onPress | Função chamada quando clicar no botão
